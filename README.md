@@ -1,5 +1,5 @@
 # React quantity picker
-React component that helps user select item quantity easily. Designed to work together with Bootstrap Button component.
+React component that helps user select item quantity easily. Designed to work together with Bootstrap Button component. Supports Bootstrap's Buttons component classes.
 
 ## Quickstart
  - `npm install --save react-quantity-picker`
